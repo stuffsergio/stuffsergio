@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Sergio
 
-<!--
-**stuffsergio/stuffsergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web  
+🚀 Trabajo con Next.js, React
+📱 Explorando React Native  
+🎨 Aprendiendo Tailwind y Figma  
 
-Here are some ideas to get you started:
+## 🧠 Tecnologías
+- JavaScript / HTML / CSS
+- React / Next.js
+- Supabase
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- GitHub: https://github.com/sergioperez
+- Email: sergio@email.com
+
+## ⚡ Proyectos destacados
+- 🛒 SaaS eCommerce (Next.js + Supabase)
