@@ -1,9 +1,8 @@
-# 👋 Hola, soy Sergio
+# 👋 Hola, soy Sergio Pérez
 
 💻 Desarrollador Web  
-🚀 Trabajo con Next.js, React
-📱 Explorando React Native  
-🎨 Aprendiendo Tailwind y Figma  
+🚀 Trabajo con Next.js, React, Express
+🎨 Mis herramientas Tailwind, Figma, Squoosh
 
 ## 🧠 Tecnologías
 - JavaScript / HTML / CSS
@@ -12,8 +11,10 @@
 - Node.js
 
 ## 📫 Contacto
-- GitHub: https://github.com/sergioperez
-- Email: sergio@email.com
+- GitHub: https://github.com/stuffsergio
+- LinkedIn: www.linkedin.com/in/sergio-pérez-montalvo
+- Email: sergioperezmontalvo@gmail.com
 
 ## ⚡ Proyectos destacados
-- 🛒 SaaS eCommerce (Next.js + Supabase)
+- 👕👖 Notte Club Ecommerce - https://notteclub.es
+- 🛒🗒️ ListShop - https://stuffsergio.com
