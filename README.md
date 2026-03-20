@@ -2,13 +2,12 @@
 
 💻 Desarrollador Web  
 🚀 Trabajo con Next.js, React, Express
-🎨 Mis herramientas Tailwind, Figma, Squoosh
+🎨 Mis herramientas Tailwind, Figma, Supabase, Stripe, Resend
 
 ## 🧠 Tecnologías
-- JavaScript / HTML / CSS
 - React / Next.js
-- Supabase
-- Node.js
+- Node.js, Express
+- Postgres, Docker
 
 ## 📫 Contacto
 - GitHub: https://github.com/stuffsergio
