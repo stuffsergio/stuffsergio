@@ -1,6 +1,7 @@
 # 👋 Hola, soy Sergio Pérez
 
-💻 Desarrollador Web  
+💻 Desarrollador Web
+
 🚀 Trabajo con Next.js, React, Express, TailwindCSS
 
 🎨 Mis herramientas Figma, Supabase, Stripe, Resend
