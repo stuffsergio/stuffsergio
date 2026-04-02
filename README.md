@@ -2,7 +2,6 @@
 
 💻 Desarrollador Web  
 🚀 Trabajo con Next.js, React, Express, TailwindCSS
-
 🎨 Mis herramientas Figma, Supabase, Stripe, Resend
 
 ## 🧠 Tecnologías
