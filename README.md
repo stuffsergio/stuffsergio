@@ -9,7 +9,7 @@
 ## 🧠 Tecnologías
 - React / Next.js
 - Node.js, Express
-- Postgres, Docker
+- Postgres
 
 ## 📫 Contacto
 - GitHub: https://github.com/stuffsergio
