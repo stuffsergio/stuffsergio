@@ -4,7 +4,7 @@
 
 🚀 Trabajo con Next.js, React, Express, TailwindCSS
 
-🎨 Mis herramientas Figma, Supabase, Stripe, Resend
+🎨 Mis herramientas Figma, Supabase, Stripe, Resend, Polar, AutoSend
 
 ## 🧠 Tecnologías
 - React / Next.js
