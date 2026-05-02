@@ -11,6 +11,9 @@
 - Node.js, Express
 - Postgres
 
+## 😎 Vibe Coding
+- Opencode
+
 ## 📫 Contacto
 - GitHub: https://github.com/stuffsergio
 - LinkedIn: www.linkedin.com/in/sergio-pérez-montalvo
