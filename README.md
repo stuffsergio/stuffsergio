@@ -2,9 +2,9 @@
 
 # Sergio Pérez Montalvo
 
-**Aprendo construyendo.**
+**Aprendo construyendo**
 
-Desarrollador web full-stack enfocado en SaaS · España 🇪🇸
+Desarrollador web full-stack enfocado en SaaS · España
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-pérez-montalvo)
 [![Contacto](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sergioperezmontalvo@gmail.com)
@@ -31,7 +31,7 @@ Cada proyecto es una forma de aprender algo nuevo y dejarlo documentado con el c
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-ffde21?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -53,7 +53,7 @@ Cada proyecto es una forma de aprender algo nuevo y dejarlo documentado con el c
 ## Proyectos
 
 ### 🧠 RemAInder *(en desarrollo)*
-Gestor de notas con IA integrada. El objetivo es que la IA te ayude a organizar, resumir y recuperar tus notas de forma inteligente.
+Gestor de notas con IA integrada. El objetivo es que la IA te ayude a organizar, resumir y recuperar tus notas de forma inteligente y autónoma.
 
 `Next.js` `Supabase` `IA`
 
@@ -71,7 +71,7 @@ Lista de la compra digital que elimina el papel. Diseñada para ser rápida, sim
 ---
 
 ### 👕 Notte Club
-Ecommerce de moda completo con pasarela de pagos, gestión de inventario y panel de administración.
+Ecommerce de moda completo con pasarela de pagos, gestión de inventario.
 
 `Next.js` `Stripe` `Supabase` `TailwindCSS`
 
