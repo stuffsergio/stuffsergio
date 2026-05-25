@@ -15,7 +15,8 @@ Desarrollador web full-stack enfocado en SaaS · España
 
 ## Sobre mí
 
-Desarrollador web autodidacta con foco en construir productos reales desde cero. Me interesa especialmente el ecosistema SaaS: desde la idea hasta el despliegue, pasando por la integración de pagos, bases de datos y ahora también IA.
+Desarrollador web autodidacta con foco en construir productos reales desde cero.
+Me interesa especialmente el ecosistema SaaS: desde la idea hasta el despliegue, pasando por la integración de pagos, bases de datos y ahora también IA.
 
 Cada proyecto es una forma de aprender algo nuevo y dejarlo documentado con el código.
 
