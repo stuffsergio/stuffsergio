@@ -49,7 +49,7 @@ Cada proyecto es una forma de aprender algo nuevo y dejarlo documentado con el c
 **Vibe Coding**
 
 ![Opencode](https://img.shields.io/badge/Opencode-1a1a1a?style=flat-square&logoColor=white)
-
++ zen
 ---
 
 ## Proyectos
