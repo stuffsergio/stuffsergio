@@ -17,7 +17,7 @@ Desarrollador FullStack Web
 
 Desarrollador web autodidacta con foco en construir productos reales desde cero.
 
-Me interesa especialmente el ecosistema SaaS: desde la idea hasta el despliegue, pasando por la integración de pagos, bases de datos y ahora también IA.
+Me interesa especialmente el ecosistema SaaS: desde la idea hasta el despliegue, pasando por la integración de pagos, bases de datos y refinar el producto al máximo.
 
 Cada proyecto es una forma de aprender algo nuevo y dejarlo documentado con el código.
 
