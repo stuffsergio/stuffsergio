@@ -4,7 +4,7 @@
 
 **Aprendo construyendo**
 
-Desarrollador FullStack Web
+Desarrollador Web FullStack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-pérez-montalvo)
 [![Contacto](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sergioperezmontalvo@gmail.com)
